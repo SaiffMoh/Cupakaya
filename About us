@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto&family=Satisfy&display=swap"
+    rel="stylesheet">
+  <title>Cupcakaya</title>
+</head>
+
+<body>
+
+  <nav class="navbar">
+    <h1 class="logo">CUPCAKAYA</h1>
+    <ul class="nav-links">
+      <li class="active"><a href="">Home</a></li>
+      <li><a href="#" class="text">Order</a></li>
+      <li><a href="#" class="text">Menu</a></li>
+      <li><a href="#" class="text">About Us</a></li>
+      <li><a href="#" class="text">FAQ's</a></li>
+      <li><a href="https://www.instagram.com/cupcakaya/" target="_blank" class="ctn">Contact</a></li>
+    </ul>
+    <img src="icon1.png" alt="" class="menu-btn">
+  </nav>
+
+
+  <header>
+    <div class="header-content">
+      <h1 class="feedbacktxt">About Us</h1>
+      <div class="line"></div>
+    </div>
+  </header>
+
+
+  <section class="story">
+    <div class="alig">
+      <!-- Add here the paragraph -->
+      <p class="about2">
+Dara’s Ice Cream, named after its founder Dara Ghosheh, was founded in 2016 in Cairo, Egypt. Dara was able to create a strong customer affinity and experience out of her brand, through the simplest details, from the store’s colors and design, friendly and experienced staff, to her homemade signature ice cream flavors.
+      </p>
+      <!-- Add here the source of image -->
+      <img src="" class="about_us_img">
+<p class="about1">
+As a team, Shedding Light believed in Dara’s uniqueness as a brand; and we wanted to create something special that we believe the brand needs; a Ramadan campaign. We realized that Dara’s Ice Cream never launched an advertisement campaign, leading us to thinking of creating it for them from scratch and pitching it to their team.      </p>
+      <!-- Add here the source of image -->
+      <img src="" class="about_us_img">
+<p class="about2">
+For Dara, we collected insights about how people perceive the brand and what feelings does it initiate in them, we found that Dara’s Ice Cream is highly affiliated with happiness and good moments especially in Ramadan where every gathering isn’t complete without an ice cream cake from Dara’s.</p>
+       <img src="" class="about_us_img">
+      <p class="about1">
+This inspired us to think of Dara’s as an experience on two levels, the tastiness of the ice cream and the enjoyment of Ramadan gatherings, both of which people never want them to end. And that’s when we came up with El Helw Mayekhlas-sh, to reflect that both the desserts of Dara’s and our happy Ramadan gatherings never end.      </p>
+      <!-- Add here the source of image -->
+      <img src="" class="about_us_img">
+      <p class="about2">
+We wanted this campaign to make people bond with the brand more and get the feeling of it, we didn’t want it to be another basic Ramadan advertisement. This campaign was Dara’s first ever campaign, and their first appearance on YouTube, so we wanted to create something worthy of the first time for them to create a campaign.      </p>
+      <!-- Add here the source of image -->
+      <img src="" class="about_us_img">
+
+    </div>
+    </div>
+  </section>
+
+
+  <section class="footer">
+    <p>Copyrights</p>
+  </section>
+
+  <script src="java.js"></script>
+</body>
+
+</html>
